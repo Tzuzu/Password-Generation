@@ -1,6 +1,6 @@
 # Password-Generation
 
-![Password Generation Website](./assets/images/examplewebsite.png)
+![Password Generation Website](assets/images/examplewebsite.png)
 
 If you wish to view the website, you may do so from [here](https://tzuzu.github.io/Password-Generation/)
 
